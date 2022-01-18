@@ -24,13 +24,14 @@ Lightship is a collection of smart contracts that allows you to manage your cryp
 
 ## Intro
 
+>  **"Lightship is the bridge between you and financial affluency."**
+> *- lbf.sol*
+
 Are you a crypto HODLER?! A day trader?! NFT collector?! Crypto enthusiast?! If you answered "yes" to any of the previous questions, we are sad to be the bearer of bad news; **you are managing your digital assets incorrectly!** We aren't just talking about key management here... Are your digital assets held in a Trust fund? Have you implemented advanced tax planning strategies? Have you thought about how you'll eventually transfer your vast crypto fortune to your children and grandchildren? Do you want to tokenize ownership of your real-world assets and borrow against them? Have you privately insured your digital assets? 
 
 Creating a Wealth Management Vault (WMV) using Lightship will safeguard your digital assets using multi-signature arrangements, and allow you to programmatically address all of the wealth management, estate planning, and tax planning concerns we've mentioned.
 
 The desired end result is simple to describe -- manage your crypto assets using the same strategies used by the über-wealthy to manage their traditional mega-fortunes.
-
-> Lightship bridges <span style="text-decoration:underline">old money</span> and <span style="text-decoration:underline">new money</span>
 
 
 ## Note
