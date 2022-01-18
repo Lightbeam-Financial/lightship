@@ -25,7 +25,7 @@ Lightship is a collection of smart contracts that allows you to manage your cryp
 ## Intro
 
 >  **"Lightship is the bridge between you and financial affluency."**
-
+>
 > *- lbf.sol*
 
 <br/>
