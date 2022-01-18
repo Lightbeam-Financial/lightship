@@ -30,7 +30,7 @@ Creating a Wealth Management Vault (WMV) using Lightship will safeguard your dig
 
 The desired end result is simple to describe -- manage your crypto assets using the same strategies used by the über-wealthy to manage their traditional mega-fortunes.
 
-| Lightship is the bridge between 'old money' and 'new money'
+> Lightship bridges <span style="text-decoration:underline">old money</span> and <span style="text-decoration:underline">new money</span>
 
 
 ## Note
