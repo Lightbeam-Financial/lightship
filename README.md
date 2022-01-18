@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="https://media.discordapp.net/attachments/813444514949103658/890278520553603092/export.png?width=746&height=746" />
+  <img height="170x" src="https://lbf-webapp-storage111843-nonprod.s3.amazonaws.com/public/lightship.jpg?width=746&height=746" />
 
   <h1>Lightship</h1>
 
