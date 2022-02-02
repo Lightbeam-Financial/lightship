@@ -36,7 +36,7 @@ Creating a Wealth Management Vault (WMV) using Lightship will safeguard your dig
 
 The desired end result is simple to describe -- manage your crypto assets using the same strategies used by the über-wealthy to manage their traditional mega-fortunes.
 
-## "Trust Fund Baby™" NFT
+## "Crypto Trust Fund Baby™" NFT
 
 Get your Trust Fund Baby™ NFT to access our library of legal templates which includes various Trust contracts, holding company operating agreements, & more. Additionally, token holders receive Trust Administration services from a licensed Nevada Public Trust Company at no additional cost (~$3000/yr savings), and have access to work with our network of real estate agents in select U.S. markets to acquire residential real estate and receive a 2% refund of the purchase price.
 
